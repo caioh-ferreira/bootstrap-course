@@ -1,2 +1,2 @@
 # Bootstrap projects
-Projects deveopmed in Bootstrap CSS course.
+Projects developed in Bootstrap CSS course.
